@@ -1,0 +1,2 @@
+add_executable(helloengine WIN32 helloengine_d3d12.cpp)
+target_link_libraries(helloengine d3d12 dxgi d3dcompiler)

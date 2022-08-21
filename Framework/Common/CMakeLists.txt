@@ -1,0 +1,1 @@
+add_library(Common MemoryManager.cpp MemoryManager.hpp Allocator.cpp Allocator.hpp BaseApplication.cpp BaseApplication.hpp GraphicsManager.cpp GraphicsManager.hpp main.cpp)
